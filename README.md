@@ -1,0 +1,1 @@
+# example-camel-integration
